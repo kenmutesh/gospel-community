@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('page', 'Contact')
 @section('content')
 <section id="contact" class="contact">
     <div class="container" data-aos="fade-up">

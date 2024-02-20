@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+@section('page', 'Home')
 @section('content')
 <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
