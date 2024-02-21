@@ -6,8 +6,14 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>@yield('page') | GCF </title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta name="title" content="Gospel community Fellowship">
+    <meta name="description" content="Its by grace aloneVision To be a transformed team of individual, families and communities  in Kenya by the true word of God.MissionTo reach, train and send workers into harvest fields">
+    <meta name="keywords" content="Gospel community fellowship,GCF,GCF KOIMUGO,GCF EMBU,ITS BY CHRIST ALONE,GOSPEL COMMUNITY">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="1 days">
+
 
     <!-- Favicons -->
 {{--    <link href="assets/img/favicon.png" rel="icon">--}}
