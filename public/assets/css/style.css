@@ -102,6 +102,9 @@ h6 {
   visibility: visible;
   opacity: 1;
 }
+#footer {
+    background: #106eea;
+}
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
@@ -202,7 +205,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -337,7 +340,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #222222;
@@ -461,14 +464,14 @@ h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top left;
+  background: url("../img/homepage.jpg") top left;
   background-size: cover;
   position: relative;
 }
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(234, 232, 232, 0.49);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1630,9 +1633,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #fff;
+    color: #fff;
   padding: 0 0 30px 0;
-  color: #444444;
   font-size: 14px;
   background: #f1f6fe;
 }
@@ -1714,13 +1716,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
-  color: #777777;
+  color: #ffffff;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color: #ffffff;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1753,7 +1755,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: #ffffff;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1794,7 +1796,7 @@ section {
   float: right;
   text-align: center;
   font-size: 13px;
-  color: #444444;
+  color: #010b23;
 }
 
 @media (max-width: 768px) {

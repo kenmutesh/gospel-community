@@ -50,6 +50,7 @@
 <x-navbar />
 @yield('content')
 
+<x-footer />
 </body>
 <script src="{{ asset('assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
 <script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>

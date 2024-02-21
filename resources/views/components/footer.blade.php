@@ -14,12 +14,12 @@
         </div>
     </div>
 
-    <div class="footer-top">
+    <div class="footer-top bg-blue" style="background-color: #c90812">
         <div class="container">
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3>BizLand<span>.</span></h3>
+                    <h3 class="text-white">BizLand<span>.</span></h3>
                     <p>
                         A108 Adam Street <br>
                         New York, NY 535022<br>
@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Useful Links</h4>
+                    <h4 class="text-white">Useful Links</h4>
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
@@ -41,18 +41,31 @@
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Our Services</h4>
-                    <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-                    </ul>
+                    <h4 class="text-white" >Our Services</h4>
+
+                        <h5>Morning Devotion </h5>
+                    <p>Monday-Friday</p>
+                    <p>6:00am-7:00am</p>
+
+
+                        <h5>Midweek Services</h5>
+                        <p>Every Wednesday</p>
+                        <p>5:30pm-7:00pm</p>
+
+
+                        <h5>Prayer Service</h5>
+                        <p>Every Friday</p>
+                        <p>5:30pm-7:00pm</p>
+
+
+                        <h5>Sunday Services</h5>
+                        <p>9:00am-10:00am</p>
+                        <p>Main Service</p>
+                        <p>10:00am-1:00pm</p>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Our Social Networks</h4>
+                    <h4 class="text-white">Our Social Networks</h4>
                     <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
                     <div class="social-links mt-3">
                         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -67,7 +80,7 @@
         </div>
     </div>
 
-    <div class="container py-4">
+    <div class="container" style="background-color: #1465ce">
         <div class="copyright">
             &copy; Copyright <strong><span>BizLand</span></strong>. All Rights Reserved
         </div>
