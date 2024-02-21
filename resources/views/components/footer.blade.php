@@ -85,7 +85,7 @@
             &copy; Copyright <strong><span>BizLand</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Developed by <a href="#">Team</a>
         </div>
     </div>
 </footer><!-- End Footer -->
