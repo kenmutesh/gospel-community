@@ -40,7 +40,7 @@
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
+                <div class="col-lg-3 col-md-6 footer-links" style="color: #e5dfdf">
                     <h4 class="text-white" >Our Services</h4>
 
                         <h5>Morning Devotion </h5>
@@ -60,7 +60,7 @@
                         <p>Main Service - 10:00am-1:00pm</p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
+                <div class="col-lg-3 col-md-6 footer-links" style="color: #e5dfdf">
                     <h4 class="text-white">Our Social Networks</h4>
                     <p>Follow us through the following social media platforms</p>
                     <div class="social-links mt-3">
@@ -77,8 +77,8 @@
     </div>
 
     <div class="container" style="background-color: #1465ce">
-        <div class="copyright">
-            &copy; Copyright <strong><span>BizLand</span></strong>. All Rights Reserved
+        <div class="copyright" >
+            &copy; Copyright <strong><span>Gospel Fellowship</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
             Developed by <a href="#">Team</a>

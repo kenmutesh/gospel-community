@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('page', 'About')
 @section('content')
     <section class="about section-bg">
         <div class="container" data-aos="fade-up">
@@ -12,7 +12,7 @@
 
             <div class="row">
                 <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-                    <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/members.jpeg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
                     <h3>Our Mission.</h3>
@@ -40,11 +40,11 @@
                             </div>
                         </div>
                     </div>
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
-                    </p>
+{{--                    <p>--}}
+{{--                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate--}}
+{{--                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in--}}
+{{--                        culpa qui officia deserunt mollit anim id est laborum--}}
+{{--                    </p>--}}
                 </div>
             </div>
 
@@ -65,7 +65,7 @@
                 <div class="d-flex h-100px align-items-center" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/patners.jpeg" class="img-fluid" alt="">
                             <div class="social">
                                 <a href="https://mytemplechurch.com/"><i class="bi bi-browser-chrome"></i></a>
                                 <a href="https://www.facebook.com/TempleIMC"><i class="bi bi-facebook"></i></a>
