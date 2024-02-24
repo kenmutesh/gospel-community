@@ -7,7 +7,7 @@
         <div class="section-title">
             <h2>Contact</h2>
             <h3><span>Contact Us</span></h3>
-            <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+            <p>You can reach out to Us through ... </p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -15,7 +15,7 @@
                 <div class="info-box mb-4">
                     <i class="bx bx-map"></i>
                     <h3>Our Address</h3>
-                    <p>A108 Adam Street, New York, NY 535022</p>
+                    <p>Gospel Community Fellowship FCJX+588, Embu</p>
                 </div>
             </div>
 
@@ -23,7 +23,7 @@
                 <div class="info-box  mb-4">
                     <i class="bx bx-envelope"></i>
                     <h3>Email Us</h3>
-                    <p>contact@example.com</p>
+                    <p>info@gospelcommunityfellowship.com</p>
                 </div>
             </div>
 
@@ -31,7 +31,7 @@
                 <div class="info-box  mb-4">
                     <i class="bx bx-phone-call"></i>
                     <h3>Call Us</h3>
-                    <p>+1 5589 55488 55</p>
+                    <p>+254724906738</p>
                 </div>
             </div>
 
@@ -40,7 +40,7 @@
         <div class="row" data-aos="fade-up" data-aos-delay="100">
 
             <div class="col-lg-6 ">
-                <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4259.26159964574!2d37.44606979794204!3d-0.5197107077134449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18262d003b3ab423%3A0xe4f7bb93191d27d5!2sGospel%20Community%20Fellowship!5e0!3m2!1sen!2ske!4v1708760100401!5m2!1sen!2ske" width="600" height="450"  loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
             </div>
 
             <div class="col-lg-6">

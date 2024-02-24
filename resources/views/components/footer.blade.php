@@ -5,7 +5,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <h4>Join Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                    <p>You can subscribe to our monthly Newsletter</p>
                     <form action="" method="post">
                         <input type="email" name="email"><input type="submit" value="Subscribe">
                     </form>
@@ -19,13 +19,13 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3 class="text-white">BizLand<span>.</span></h3>
+                    <h3 class="text-white">GCF Embu<span>.</span></h3>
                     <p>
-                        A108 Adam Street <br>
-                        New York, NY 535022<br>
-                        United States <br><br>
-                        <strong>Phone:</strong> +1 5589 55488 55<br>
-                        <strong>Email:</strong> info@example.com<br>
+
+                        Koimugo Embu<br>
+                        Embu Kenya <br><br>
+                        <strong>Phone:</strong> +254724906738 <br>
+                        <strong>Email:</strong> info@gospelcommunityfellowship.com<br>
                     </p>
                 </div>
 
@@ -44,29 +44,25 @@
                     <h4 class="text-white" >Our Services</h4>
 
                         <h5>Morning Devotion </h5>
-                    <p>Monday-Friday</p>
-                    <p>6:00am-7:00am</p>
+                    <p>Monday-Friday - 6:00am-7:00am</p>
 
 
                         <h5>Midweek Services</h5>
-                        <p>Every Wednesday</p>
-                        <p>5:30pm-7:00pm</p>
+                        <p>Every Wednesday - 5:30pm-7:00pm</p>
 
 
                         <h5>Prayer Service</h5>
-                        <p>Every Friday</p>
-                        <p>5:30pm-7:00pm</p>
+                        <p>Every Friday - 5:30pm-7:00pm</p>
 
 
                         <h5>Sunday Services</h5>
-                        <p>9:00am-10:00am</p>
-                        <p>Main Service</p>
-                        <p>10:00am-1:00pm</p>
+                        <p>First service - 9:00am-10:00am</p>
+                        <p>Main Service - 10:00am-1:00pm</p>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
                     <h4 class="text-white">Our Social Networks</h4>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+                    <p>Follow us through the following social media platforms</p>
                     <div class="social-links mt-3">
                         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
