@@ -18,7 +18,7 @@
                 border-color: #218838; /* Darker green on hover */
             }
         </style>
-        <h1 class="logo"><a href="index.html">GCF<span>.</span></a></h1>
+        <h1 class="logo"><a href="/">GCF<span>.</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
 
@@ -27,9 +27,9 @@
                 <li><a class="nav-link " href="/">Home</a></li>
                 <li><a class="nav-link" href="/about">About</a></li>
                 <li><a class="nav-link" href="/services">Services</a></li>
-                <li><a class="nav-linlk" href="#portfolio">Give</a></li>
-                <li><a class="nav-link" href="#team">Team</a></li>
-                <li><a class="nav-link" href="#team">Prayer request</a></li>
+                <li><a class="nav-linlk" href="/give">Give</a></li>
+                <li><a class="nav-link" href="/team">Team</a></li>
+                <li><a class="nav-link" href="/prayer-request">Prayer request</a></li>
 {{--                <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>--}}
 {{--                    <ul>--}}
 {{--                        <li><a href="#">Drop Down 1</a></li>--}}
