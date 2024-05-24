@@ -3,84 +3,125 @@
 @section('content')
     <section class="about section-bg">
         <div class="container" data-aos="fade-up">
+        
             <div class="section-title">
                 <h2>About</h2>
-                <h3>Find Out More <span>About Us</span></h3>
-                <h4>Our Vision</h4>
-                <p>To be a transformed team of individual, families and communities  in Kenya by the true word of God.</p>
-            </div>
+                <h3>Find Out More<br> <span>About Us</span></h3>
+                
+                 </div>
 
             <div class="row">
                 <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-                    <img src="assets/img/members.jpeg" class="img-fluid" alt="">
-                </div>
-                <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                    <h3>Our Mission.</h3>
+                <h3><span style="color: #0434a2">Our Vision</span></h3>
+                <p>To be a transformed team of individual, families and communities  in Kenya by the true word of God.</p>    
+                
+                <h3><span style="color: #0434a2">Our Mission.</span></h3>
                     <p class="fst-italic">
                         To reach, train and send workers into harvest fields
                     </p>
-                    <h3>Our <span style="color: #0434a2">Core Values</span></h3>
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
+                    
+                <h3> <span style="color: #0434a2"><center>Our Core Values</center></span></h3>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="custom-list">
-                                    <li><h5>Sound doctrine</h5></li>
-                                    <li><h5>Unwavering faith</h5></li>
-                                    <li><h5>Fruitfulness (multiply & increase)</h5></li>
-                                    <li><h5>Integrity and trustfulness</h5></li>
+                                    <h5>Sound doctrine.</h5>
+                                    <h5>Unwavering faith.</h5>
+                                    <h5>Fruitfulness (multiply & increase).</h5>
+                                    <h5>Integrity and trustfulness.</h5>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="custom-list">
-                                    <li><h5>Selfless service</h5></li>
-                                    <li><h5>Persistent prayer</h5></li>
-                                    <li><h5>Upholding Christian family values</h5></li>
+                                    <h5>Selfless service.</h5>
+                                    <h5>Persistent prayer.</h5>
+                                    <h5>Upholding Christian family values.</h5>
 
                                 </ul>
                             </div>
                         </div>
                     </div>
-{{--                    <p>--}}
-{{--                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate--}}
-{{--                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in--}}
-{{--                        culpa qui officia deserunt mollit anim id est laborum--}}
-{{--                    </p>--}}
+               
                 </div>
             </div>
 
         </div>
-    </section>
 
-    <section id="team" class="team section-bg">
+    
+
+    <section id="churches" class="churches section-bg">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
                 <h2>Team</h2>
-                <h3>Our Hardworking <span>Partners</span></h3>
+                <h3><span>Pastors</span></h3>
             </div>
+            
 
-            <div class="row">
+            <style>
+* {
+  box-sizing: border-box;
+}
 
 
-                <div class="d-flex h-100px align-items-center" data-aos="fade-up" data-aos-delay="300">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/patners.jpeg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href="https://mytemplechurch.com/"><i class="bi bi-browser-chrome"></i></a>
-                                <a href="https://www.facebook.com/TempleIMC"><i class="bi bi-facebook"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>My Temple Church</h4>
-                            <span>CTO</span>
-                        </div>
-                    </div>
-                </div>
+.column {
+  float: left;
+  width: 14.2%;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
 
-            </div>
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-        </div>
+
+<div class="row">
+  <div class="column" style="background-color:white;">
+  <img src="assets/img/pass.jpg"><center>
+    <h5>Rev. Micheal Muthee</h5>
+    <p><i>(Sinior pst.)</i></center></p>
+  </div>
+  <div class="column" style="background-color:white;">
+  <img src="assets/img/pass1.jpg"><center>
+    <h5>Pst. Alice Muthee</h5>
+    <p><i>(Ass. Sinior pst.)</i></center></p>
+  </div>
+  <div class="column" style="background-color:white;">
+  <img src="assets/img/pass.jpg"><center>
+    <h5>Pst. Nickson Mutuma</h5>
+    <p><i>(H.Q.Resident pst)</i></center></p>
+  </div>
+  <div class="column" style="background-color:white;">
+  <img src="assets/img/pass.jpg"><center>
+    <h5>Pst. Morris Kirimi</h5>
+    <p><i>(H.Q Youth pst.)</i></center></p>
+  </div>
+  <div class="column" style="background-color:white;">
+  <img src="assets/img/pass.jpg"><center>
+    <h5>Pst. Amon Mugo</h5>
+    <p><i>(Resident pst. <br>Kangethia.)</i></center></p>
+  </div>
+  <div class="column" style="background-color:white;">
+  <img src="assets/img/pass.jpg"><center>
+    <h5>Pst. Joseph Ng'ang'a</h2>
+    <p><i>(Resident pst.<br> Githure.)</i></center></p>
+  </div><div class="column" style="background-color:white;">
+  <img src="assets/img/pass.jpg"><center>
+    <h5>Pst. Joshua Kirema</h5>
+    <p><i>(Resident pst.<br> Airstrip.)</i></center></p>
+  </div>
+</div>
+            
+    
+
+  
     </section><!-- End Team Section -->
 
 @endsection

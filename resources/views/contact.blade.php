@@ -40,7 +40,9 @@
         <div class="row" data-aos="fade-up" data-aos-delay="100">
 
             <div class="col-lg-6 ">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4259.26159964574!2d37.44606979794204!3d-0.5197107077134449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18262d003b3ab423%3A0xe4f7bb93191d27d5!2sGospel%20Community%20Fellowship!5e0!3m2!1sen!2ske!4v1708760100401!5m2!1sen!2ske" width="600" height="450"  loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4259.26159964574!2d37.44606979794204!3d-0.5197107077134449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s
+                    0x18262d003b3ab423%3A0xe4f7bb93191d27d5!2sGospel%20Community%20Fellowship!5e0!3m2!1sen!2ske!4v1708760100401!5m2!1sen!2ske" 
+                    width="600" height="450"  loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
             </div>
 
             <div class="col-lg-6">

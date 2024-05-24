@@ -14,50 +14,40 @@
         </div>
     </div>
 
-    <div class="footer-top bg-blue" style="background-color: #c90812">
+    <div class="footer-top bg-blue" style="background-color: #5B5655">
         <div class="container">
             <div class="row">
 
                 <div class="col-lg-3 col-md-6 footer-contact">
-                    <h3 class="text-white">GCF Embu<span>.</span></h3>
+                    <h3 class="text-white">About Us<span></span></h3>
                     <p>
 
-                        Koimugo Embu<br>
+                       We are located at Koimugo,<br>
                         Embu Kenya <br><br>
-                        <strong>Phone:</strong> +254724906738 <br>
-                        <strong>Email:</strong> info@gospelcommunityfellowship.com<br>
+                    <p>Map</p>
+                    
                     </p>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
-                    <h4 class="text-white">Useful Links</h4>
-                    <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                    </ul>
+                    <h4 class="text-white">Services Time</h4>
+                    <p class="text-white"><strong>Sunday Services</strong><br>
+                        Discipleship 9:00am-10:00am.<br>
+                        Main service 10:00am-1:00pm.
+                       <p class="text-white"> <strong>Prayer Fellowship.</strong><br>
+                        Every Friday 5:30pm-7:00pm.<br></p>
+                       <p class="text-white"><strong> Mid-week Servicers </strong><br>
+                        Every Wednesday 5:30pm-7:00pm.
+                    </p>                 
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links" style="color: #e5dfdf">
-                    <h4 class="text-white" >Our Services</h4>
+                    <h4 class="text-white" >Contact Info.</h4>
 
-                        <h5>Morning Devotion </h5>
-                    <p>Monday-Friday - 6:00am-7:00am</p>
-
-
-                        <h5>Midweek Services</h5>
-                        <p>Every Wednesday - 5:30pm-7:00pm</p>
-
-
-                        <h5>Prayer Service</h5>
-                        <p>Every Friday - 5:30pm-7:00pm</p>
-
-
-                        <h5>Sunday Services</h5>
-                        <p>First service - 9:00am-10:00am</p>
-                        <p>Main Service - 10:00am-1:00pm</p>
+                        
+                        <p><strong>Phone:</strong> +254724906738 <br>
+                        <strong>Email:</strong> info@gospel<br>communityfellowship.com<br>
+</p>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links" style="color: #e5dfdf">
@@ -78,7 +68,7 @@
 
     <div class="container" style="background-color: #1465ce">
         <div class="copyright" >
-            &copy; Copyright <strong><span>Gospel Fellowship</span></strong>. All Rights Reserved
+            &copy; Copyright <strong><span>Gospel Community Fellowship</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
             Developed by <a href="#">Team</a>
