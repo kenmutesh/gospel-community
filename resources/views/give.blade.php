@@ -25,20 +25,18 @@
                 <div id="givingOptions" style="display: none;">
                     <div id="kenyaOption" class="giving-detail" style="display: none;">
                         <h5>Giving Within Kenya</h5>
-                        <p>You can send your contributions using the following details:</p>
-                        <p><strong>Equity Paybill Number:</strong> 123456</p>
-                        <p><strong>Account Name:</strong> Your Church Name</p>
+                        <p><b><i>You can send your contributions using the following details:</i></b></p>
+                        <p><strong>Equity Paybill Number:</strong> 247247</p>
+                        <p><strong>Account Number:</strong> 624455</p>
                     </div>
 
                     <div id="outsideKenyaOption" class="giving-detail" style="display: none;">
                         <h5>Giving Outside Kenya</h5>
-                        <p>If you're giving from outside Kenya, please send your contributions to the following address:</p>
-                        <p><strong>Mailing Address:</strong></p>
-                        <p>Your Church Name<br>
-                        1234 Church St.<br>
-                        City, State, ZIP<br>
-                        USA</p>
-                        <p>You can also give online through our secure link:</p>
+                        <p><b><i>If you're giving from outside Kenya, please send your contributions to the following address:</i></b></p>
+                       <i> 318, Pine Lake CT,<br>
+                        Spartanburg SC.<br>
+                        USA</i></p>
+                        <p><b>You can also give online through our secure link:</b></p>
                         <p><a href="https://mytemplechurch.com/giving" target="_blank">Donate Online</a></p>
                     </div>
                 </div>
