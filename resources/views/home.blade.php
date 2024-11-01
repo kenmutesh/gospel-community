@@ -3,21 +3,19 @@
 @section('page', 'Home')
 @section('content')
 <section id="hero" class="d-flex align-items-center">
-    <div class="container" >
-        <h1 txtcolor="white"><center>"To reach, train and send<br>workers into
-            the<br> hervest fields."
-        </center></h1>
-      
-        <div class="d-flex">
-            <a href="https://www.youtube.com/watch?v=AA4YjpQYuHo&pp=ygUgZ29zcGVsIGNvbW11bml0eSBmZWxsb3dzaGlwIGVtYnU%3D" class="glightbox btn-watch-video">
-                 <i class="bi bi-play-circle"></i><span>Follow us</span></a>
-        </div>
-    </div>
+<div class="container">
+    <h1 style="color: white; text-align: center;">
+        "To reach, train and send<br>
+        workers into the<br>
+        harvest fields."
+    </h1>
+</div>
+
 </section><!-- End Hero -->
 
-    <section>
+    <section class="section-bg">
             <p><i>
-            <h1>JESUS CAN CHANGE YOUR LIFE'S STORY</h1><br>
+            <h1 style="text-align: center;">JESUS CAN CHANGE YOUR LIFE'S STORY</h1><br>
             <center>Here at Gospel community Fellowship, we know that everyone has a story. The beauty<br> 
              of the Gospel is that no matter what your life's story is, Jesus has come to <br>
               rescue you and to give your story another ending.<br>
@@ -29,7 +27,7 @@
              </p>
     </section>
 
-<main id="main">
+<main id="main" class="section-bg">
 
     <!-- ======= Featured Services Section ======= -->
     <section id="featured-services" class="featured-services">
